@@ -12,7 +12,7 @@
 ## Installation
   Ensure you have node and MongoDB installed.  Clone the repo and run `npm install` from the root directory to install all the dependencies from the three package.jsons. Run `npm start` to start the appliation.
 ## Usage
-  Login into the app and search for books.  Once you find a book, save the book, and go to your saved books.  You are able to delete your saved books or add more saved books.  You can then logout when done.
+  Login into the app and search for books.  Once you find a book, save the book, and go to your saved books.  You are able to delete your saved books or add more saved books.  You can then logout when done.  Link to the deployed app: https://pure-basin-18393.herokuapp.com/
   
   [![book-search.png](https://i.postimg.cc/1ttKMgSr/book-search.png)](https://postimg.cc/4KDtxxmY)
 ## License
